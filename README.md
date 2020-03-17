@@ -1,6 +1,6 @@
 # Busqueda_pelis
 
-Breve Script que mediante **AXIOS** nos trae la informacion de una **base de datos**
+* Breve Script que mediante **AXIOS** nos trae la informacion de una **base de datos**
 
 ```
 document.getElementById("button").addEventListener("click", getMovies);
